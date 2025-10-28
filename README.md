@@ -1,9 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://ibb.co/xK9G2Y9P" width="100%" alt="Ana Bárbara Marques Banner">
+  <img src="https://i.ibb.co/TDjRw1jp/Imagem-2.png" width="100%" alt="Ana Bárbara Marques Banner">
+  <img src="" width="100%" alt="Ana Bárbara Marques Banner">
 </p>
 
-<h1 align="center">Ana Bárbara Marques/h1>
+<h1 align="center">Ana Bárbara Marques /h1>
 <p align="center"><em>Direito → Engenharia de Software • Back-End Developer in Progress</em></p>
 
 ---

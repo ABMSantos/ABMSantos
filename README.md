@@ -23,6 +23,7 @@
 #### Linguagens & Back-End  
 <p>
   <img src="https://img.shields.io/badge/Python-222?style=for-the-badge&logo=python&logoColor=FCD581"/>
+  <img src="https://img.shields.io/badge/Java-222?style=for-the-badge&logo=java&logoColor=FCD581"/>
   <img src="https://img.shields.io/badge/C%23-222?style=for-the-badge&logo=csharp&logoColor=FCD581"/>
   <img src="https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript&logoColor=FCD581"/>
 </p>
@@ -43,7 +44,8 @@
 ---
 
 ### 🧠 Atualmente Estudando  
-- Bootcamp Santander • Back-End com Python  
+- Bootcamp Santander • Back-End com Python
+- Ada & Artemisia | Back-End 
 - Estrutura de Dados, POO e Banco de Dados  
 - Modelagem de Sistemas (UML e BPMN)
 

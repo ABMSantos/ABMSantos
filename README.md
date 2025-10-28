@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/NLtpjPv/dark-academia-banner.png" width="100%" alt="Ana Bárbara Marques Dark Academia Banner">
+  <img src="https://ibb.co/xK9G2Y9P" width="100%" alt="Ana Bárbara Marques Banner">
 </p>
 
 <h1 align="center">Ana Bárbara Marques/h1>

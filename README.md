@@ -4,7 +4,10 @@
 </p>
 
 <h1 align="center">Ana Bárbara Marques</h1>
-<p align="center"><em>Direito → Engenharia de Software • Back-End Developer in Progress</em></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Direito+→+Engenharia+de+Software+•+Back-End+Developer+in+Progress" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -24,7 +27,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-222?style=for-the-badge&logo=python&logoColor=FCD581"/>
   <img src="https://img.shields.io/badge/Java-222?style=for-the-badge&logo=java&logoColor=FCD581"/>
-  <img src="https://img.shields.io/badge/C%23-222?style=for-the-badge&logo=csharp&logoColor=FCD581"/>
   <img src="https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript&logoColor=FCD581"/>
 </p>
 

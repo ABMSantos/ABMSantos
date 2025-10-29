@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/TDjRw1jp/Imagem-2.png" width="100%" alt="Ana Bárbara Marques Banner">
-  <img src="" width="100%" alt="Ana Bárbara Marques Banner">
+  <img src="https://i.ibb.co/TDjRw1jp/Imagem-2.png" width="50%" alt="Ana Bárbara Marques Banner">
 </p>
 
 <h1 align="center">Ana Bárbara Marques /h1>

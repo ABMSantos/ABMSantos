@@ -15,8 +15,7 @@
 - Assessora Técnica
 - Formada em **Direito** com Pós em Direito Digital  
 - Estudante de Engenharia de Software  
-- Em transição para o **desenvolvimento Back-End**, com cuidado, profundidade e visão  
-- Conecto lógica, processos e impacto humano com tecnologia
+- Em transição para o **desenvolvimento Back-End**
 
 > _"Código é linguagem. E linguagem é poder."_
 

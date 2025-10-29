@@ -9,7 +9,7 @@
 ---
 
 ### ✦ Sobre mim
-- Assessora Técnica na **RP Mobi**  
+- Assessora Técnica
 - Formada em **Direito** com Pós em Direito Digital  
 - Estudante de Engenharia de Software  
 - Em transição para o **desenvolvimento Back-End**, com cuidado, profundidade e visão  

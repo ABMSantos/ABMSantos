@@ -5,7 +5,7 @@
 
 <h1 align="center">Ana Bárbara Marques</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=200&lines=Direito+→+Engenharia+de+Software+•+Back-End+Developer+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Direito+→+Engenharia+de+Software+•+Back-End+Developer+in+Progress" alt="Typing SVG" />
 </p>
 
 

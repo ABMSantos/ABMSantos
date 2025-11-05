@@ -68,14 +68,9 @@
 ---
 
 ### 📬 Conecte-se comigo  
-<div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-  <a href="https://www.linkedin.com/in/anabarbaramarques/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=FCD581" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/seu_instagram/(https://www.instagram.com/aninhabarbara/)" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram&logoColor=FCD581" alt="Instagram">
-  </a>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=FCD581)](https://www.linkedin.com/in/anabarbaramarques/)
+[![Instagram](https://img.shields.io/badge/Instagram-222?style=for-the-badge&logo=instagram&logoColor=FCD581)](https://www.instagram.com/aninhabarbara/)
 
 ---
 

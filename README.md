@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABMSantos/anabarbaramarques_portifolio/refs/heads/main/logo.png" width="35%" alt="Ana Bárbara Marques Banner">
+  <img src="https://raw.githubusercontent.com/ABMSantos/anabarbaramarques_portifolio/refs/heads/main/logo.png" width="32%" alt="Ana Bárbara Marques Banner">
 </p>
 
 <h1 align="center">Ana Bárbara Marques</h1>
